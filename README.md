@@ -44,7 +44,7 @@ I'm a highly motivated and self-taught developer who is continuously learning an
 
 ## 📁 Highlighted Repository
 
-**[static](https://github.com/your-username/static)**  
+**[static](https://github.com/sushan64/static)**  
 A repository containing static assets, templates, and resources that I frequently use in my projects.
 
 ---
@@ -52,16 +52,16 @@ A repository containing static assets, templates, and resources that I frequentl
 ## 📲 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sushan-khatiwada" target="_blank">
+  <a href="https://www.linkedin.com/in/sushankhatiwada" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sushan_khatiwada" target="_blank">
+  <a href="https://www.instagram.com/sushan_khatiwada64" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/sushan_khatiwada" target="_blank">
+  <a href="https://twitter.com/sushan64" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/sushan.kd" target="_blank">
+  <a href="https://www.facebook.com/Sushankhatiwada64" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
